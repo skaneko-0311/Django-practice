@@ -1,1 +1,1 @@
-# Django-practice
+# SenryuMaker
